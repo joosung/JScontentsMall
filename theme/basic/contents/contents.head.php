@@ -13,6 +13,8 @@ include_once(G5_LIB_PATH.'/visit.lib.php');
 include_once(G5_LIB_PATH.'/connect.lib.php');
 include_once(G5_LIB_PATH.'/popular.lib.php');
 include_once(G5_LIB_PATH.'/latest.lib.php');
+
+add_stylesheet('<link rel="stylesheet" href="'.G5_THEME_URL.'/css/default_contents.css">', 0); 
 ?>
 
 <!-- 상단 시작 { -->
