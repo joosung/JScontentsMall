@@ -103,7 +103,7 @@ include_once(G5_LIB_PATH.'/popular.lib.php');
             <li><a href="<?php echo G5_BBS_URL ?>/current_connect.php" class="visit"><i class="fa fa-users" aria-hidden="true"></i><span>접속자</span><strong class="visit-num"><?php echo connect('theme/basic'); // 현재 접속자수, 테마의 스킨을 사용하려면 스킨을 theme/basic 과 같이 지정  ?></strong></a></li>
             <li><a href="<?php echo G5_BBS_URL ?>/new.php"><i class="fa fa-history" aria-hidden="true"></i><span>새글</span></a></li>			
             <?php if (defined('G5_USE_CONTENTS') && G5_USE_CONTENTS) { ?>
-            <li><a href="<?php echo G5_CONTENTS_URL ?>/">컨텐츠몰</a></li>
+            <li><a href="<?php echo G5_CONTENTS_URL ?>"><i class="fa fa-cart-plus" aria-hidden="true"></i><span>컨텐츠몰</span></a></li>
             <?php } ?>
         </ul>
     </div>

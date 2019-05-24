@@ -49,7 +49,7 @@ ul, li,ol, dl, dt, dd{list-style:none;margin:0;padding:0}
 #hd #hd_sch{float:left; margin:0 0 0; border:1px solid #c3c6ca;background:#fff}
 #hd_sch #sch_stc{text-indent:5px;width:137px;height:25px; border:none; background:#fff; line-height:1.9em !important;}
 #hd #hd_wrapper #hd_sch #sch_submit{padding: 0 5px;height: 26px;border: 0;background: #e2e6eb;color: #333;cursor: pointer;}
-#hd #hd_wrapper #tnb{float:right; padding:8px 0 0; width:700px}
+#hd #hd_wrapper #tnb{float:right; padding:8px 0 0; width:650px}
 #hd #hd_wrapper #tnb ul{}
 #hd #hd_wrapper #tnb ul li{float:left; margin-left:15px; background:none}
 #hd #hd_wrapper #tnb ul:after{clear: both; content: ""; display: block; visibility: hidden;}

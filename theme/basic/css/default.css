@@ -114,6 +114,9 @@ border: 1px solid #558ab7 !important;
 #hd_qnb li .fa-users:hover{background:#f06f00}
 #hd_qnb li .fa-history{background:#8522c4;font-size:15px}
 #hd_qnb li .fa-history:hover{background:#6700a9}
+#hd_qnb li .fa-cart-plus{background:#fc6801;font-size:15px}
+#hd_qnb li .fa-cart-plus:hover{background:#db5d04}
+
 
 /* 메인메뉴 */
 #gnb{position:relative}
